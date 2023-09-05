@@ -1,7 +1,7 @@
-#This privacy notice for smart_lines (*we." "us." or our"), describes how and why we might collect, store, use, and/or share ("process") your information
+#This privacy notice for radwan (*we." "us." or our"), describes how and why we might collect, store, use, and/or share ("process") your information
 ‘when you use our services ("Services"), such as when you
 
- Download and use our mobile application (facelook). or any other application of ours that links to this privacy notice
+ Download and use our mobile application (iotlab). or any other application of ours that links to this privacy notice
  Engage with us in other related ways, including any sales, marketing, or events
 
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and
@@ -80,7 +80,6 @@ Personal Information Provided by You. The personal information that we collect d
 the choices you make, and the products and features you use. The personal information we collect may include the following:
 
 -names
--phone numbers
 -email addresses
 - usemames
 
@@ -207,12 +206,12 @@ information
 
 11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at ahmedtahoon647@gmail.com or contact us by post at
-smart_lines
+If you have questions or comments about this notice, you may email us at ahmedr551010@gmail.com or contact us by post at
+radwan
 
 salem
 
-Al Azhar, Cairo
+benha, Cairo
 
 Egypt
 
